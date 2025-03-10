@@ -19,20 +19,19 @@
 }
 
 .container .video-container{
-    display: flex;
+    display:flex;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 7px;
     justify-content: center;
-    padding: 10;
     color: #fff; 
 }
 
 .container .video-container .texto {
   text-align: center;
   margin-top:auto;
-    color: #fff; 
 
 }
+
 
 .container .video-container .video{
     height: 250px;
@@ -44,10 +43,6 @@
     overflow: hidden;
 }
 
-.container .video-container .video .p{
-    margin-top:20px ;
-    color: #fff;
-}
 
 
 .container .video-container .video video{
